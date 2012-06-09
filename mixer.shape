@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>tmp - mixer</name>
+  <icon>mixer.png</icon>
+  <connections>
+    <point x="12.675" y="15"/>
+    <point x="12.675" y="9.9"/>
+    <point x="10.125" y="12.45"/>
+    <point x="15.225" y="12.45"/>
+    <point x="11" y="10.5"/>
+    <point x="14.4781" y="14.2531"/>
+    <point x="12.7391" y="12.3766"/>
+    <point x="10.8719" y="14.2531"/>
+    <point x="14.4" y="10.6"/>
+    <point x="12.6359" y="12.4266"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="12.675" cy="12.45" rx="2.55" ry="2.55"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.5; stroke: #000000" cx="12.675" cy="12.45" rx="2.55" ry="2.55"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.3; stroke: #000000" x1="11" y1="10.5" x2="14.4781" y2="14.2531"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.3; stroke: #000000" x1="10.8719" y1="14.2531" x2="14.4" y2="10.6"/>
+  </svg:svg>
+</shape>

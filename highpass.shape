@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>tmp - highpass</name>
+  <icon>highpass.png</icon>
+  <connections>
+    <point x="10" y="10"/>
+    <point x="15" y="15"/>
+    <point x="10" y="15"/>
+    <point x="10" y="12.5"/>
+    <point x="15" y="10"/>
+    <point x="15" y="12.5"/>
+    <point x="12.5" y="15"/>
+    <point x="12.5" y="10"/>
+    <point x="12.0719" y="12.6562"/>
+    <point x="13.0969" y="13.9812"/>
+    <point x="12.5844" y="13.3187"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="10" y="10" width="5" height="5"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" x="10" y="10" width="5" height="5"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" d="M 10.75 11.575 C 12.25,13.575 12.75,9.575 14.25,11.575"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" d="M 10.8244 13.1936 C 12.3244,15.1936 12.8244,11.1936 14.3244,13.1936"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="12.0719" y1="12.6562" x2="13.0969" y2="13.9812"/>
+  </svg:svg>
+</shape>
