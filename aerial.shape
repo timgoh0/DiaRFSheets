@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>tmp - aerial</name>
+  <icon>aerial.png</icon>
+  <connections>
+    <point x="13.5" y="-2"/>
+    <point x="14" y="-1.2"/>
+    <point x="13.75" y="-1.6"/>
+    <point x="14" y="-2"/>
+    <point x="14" y="0"/>
+    <point x="14" y="-1"/>
+    <point x="14.5" y="-2"/>
+    <point x="14" y="-1.2"/>
+    <point x="14.25" y="-1.6"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="13.5" y1="-2" x2="14" y2="-1.2"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="14" y1="-2" x2="14" y2="0"/>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="14.5" y1="-2" x2="14" y2="-1.2"/>
+  </svg:svg>
+</shape>
